@@ -1,7 +1,7 @@
 ### Get Telegram Bot Tokens
 
 - You go to @BotFather in Telegram and use the /newbot command.
-- You enter the name of the bot. only paying attention to the format, for example: **TelegramBot **or **Telegram_Bot** must end with Bot.
+- You enter the name of the bot. only paying attention to the format, for example: **TelegramBot**or **Telegram_Bot** must end with Bot.
 - You can now trade with the token it gives you.
 
 
@@ -14,7 +14,7 @@
 ### Used Libraries
 1. [node-telegram-bot-api](https://www.npmjs.com/package/node-telegram-bot-api) to manage the telegram bot .
 2. [bing-translate-api](https://www.npmjs.com/package/bing-translate-api) to translate simply.
-3. [dotenv](https://www.npmjs.com/package/dotenv) to access environment variables.
+3. [dotenv](https://www.npmjs.com/package/dotenv) to access environment variables.
 
 ### Recommendation
 I used ready-made packages because I wanted to show it in a simple way. 
