@@ -16,11 +16,11 @@
 2. [bing-translate-api](https://www.npmjs.com/package/bing-translate-api) to translate simply.
 3. [dotenv](https://www.npmjs.com/package/dotenv) to access environment variables.
 
-###Recommendation
+### Recommendation
 I used ready-made packages because I wanted to show it in a simple way. 
 You can make it from the main documentation and develop it further.
 
-###Documentation
+### Documentation
 1. [Telegram Bot Api](https://core.telegram.org/bots/api)
 2. [Translator Text API](https://www.microsoft.com/en-us/translator/business/translator-api/)
 3. [Google Translate API](https://cloud.google.com/translate)
